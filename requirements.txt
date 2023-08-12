@@ -1,0 +1,3 @@
+scikit-learn==23.0.1
+plotly_express
+matplotlib
